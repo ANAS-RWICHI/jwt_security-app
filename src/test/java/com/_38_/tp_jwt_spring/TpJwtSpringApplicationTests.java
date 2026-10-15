@@ -1,0 +1,13 @@
+package com._38_.tp_jwt_spring;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class TpJwtSpringApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
